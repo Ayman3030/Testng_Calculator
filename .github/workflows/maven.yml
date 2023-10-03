@@ -11,6 +11,8 @@ name: PITA Unit testing workflow
 on:
   push:
     branches: [ "main" ]
+  schedule:
+    - cron: '00 5 * * *'
 
 jobs:
   build:
