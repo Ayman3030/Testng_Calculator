@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calculator Operations" parallel="classes">
+    <test name="Division Tests">
+        <classes>
+            <class name="fTest"></class>
+            <class name="GradCalculatorTest"></class>
+        </classes>
+
+    </test>
+<!--    <test name="Grade Tests">-->
+<!--        <classes>-->
+<!--            <class name="GradCalculatorTest"></class>-->
+<!--        </classes>-->
+
+<!--    </test>-->
+</suite>
