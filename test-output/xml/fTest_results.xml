@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Division Tests"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.017">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDivision"
+                time="0.000"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivision"
+                time="0.000"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivision"
+                time="0.013"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivision"
+                time="0.000"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivisionInvalid"
+                time="0.000"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivision"
+                time="0.001"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivision"
+                time="0.003"
+                classname="fTest">
+            </testcase>
+</testsuite>

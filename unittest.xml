@@ -8,6 +8,11 @@
         </classes>
 
     </test>
+    <test name="priority test">
+        <classes>
+        <class name="pTest"></class>
+        </classes>
+    </test>
 <!--    <test name="Grade Tests">-->
 <!--        <classes>-->
 <!--            <class name="GradCalculatorTest"></class>-->
