@@ -4,34 +4,34 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.031">
+           time="0.041">
     <properties></properties>
 
 
 
             <testcase
                 name="testGetGrade"
-                time="0.000"
+                time="0.001"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
                 name="testGetGrade"
-                time="0.000"
+                time="0.001"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
                 name="testGetGrade"
-                time="0.000"
+                time="0.001"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
                 name="testGetGrade"
-                time="0.013"
+                time="0.001"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
                 name="testGetGrade"
-                time="0.003"
+                time="0.001"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
@@ -61,32 +61,42 @@
             </testcase>
             <testcase
                 name="testGetGrade"
-                time="0.001"
-                classname="GradCalculatorTest">
-            </testcase>
-            <testcase
-                name="testGetGrade"
-                time="0.000"
-                classname="GradCalculatorTest">
-            </testcase>
-            <testcase
-                name="testGetGrade"
-                time="0.000"
-                classname="GradCalculatorTest">
-            </testcase>
-            <testcase
-                name="testGetGrade"
-                time="0.000"
-                classname="GradCalculatorTest">
-            </testcase>
-            <testcase
-                name="testGetGrade"
-                time="0.000"
+                time="0.014"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
                 name="testGetGrade"
                 time="0.001"
+                classname="GradCalculatorTest">
+            </testcase>
+            <testcase
+                name="testGetGrade"
+                time="0.002"
+                classname="GradCalculatorTest">
+            </testcase>
+            <testcase
+                name="testGetGrade"
+                time="0.001"
+                classname="GradCalculatorTest">
+            </testcase>
+            <testcase
+                name="testGetGrade"
+                time="0.004"
+                classname="GradCalculatorTest">
+            </testcase>
+            <testcase
+                name="testGetGrade"
+                time="0.001"
+                classname="GradCalculatorTest">
+            </testcase>
+            <testcase
+                name="testGetGrade"
+                time="0.001"
+                classname="GradCalculatorTest">
+            </testcase>
+            <testcase
+                name="testGetGrade"
+                time="0.003"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase
@@ -107,16 +117,6 @@
             <testcase
                 name="testGetGrade"
                 time="0.000"
-                classname="GradCalculatorTest">
-            </testcase>
-            <testcase
-                name="testGetGrade"
-                time="0.001"
-                classname="GradCalculatorTest">
-            </testcase>
-            <testcase
-                name="testGetGrade"
-                time="0.003"
                 classname="GradCalculatorTest">
             </testcase>
             <testcase

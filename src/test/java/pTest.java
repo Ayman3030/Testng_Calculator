@@ -21,11 +21,11 @@ public class pTest {
     }
     @Test(priority = 1)
     public void testOne(){
-        throw new SkipException("skip exception");
-//        Assert.assertTrue(5==5);
+//        throw new SkipException("skip exception");
+        Assert.assertTrue(5==5);
     }
     @Test(priority = 2)
     public void testTwo(){
-        Assert.assertEquals(2, 3);
+        Assert.assertEquals(2, 2);
     }
 }

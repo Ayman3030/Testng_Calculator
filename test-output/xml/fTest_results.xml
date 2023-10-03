@@ -4,7 +4,7 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.017">
+           time="0.031">
     <properties></properties>
 
 
@@ -16,22 +16,12 @@
             </testcase>
             <testcase
                 name="testDivision"
-                time="0.000"
+                time="0.014"
                 classname="fTest">
             </testcase>
             <testcase
                 name="testDivision"
-                time="0.013"
-                classname="fTest">
-            </testcase>
-            <testcase
-                name="testDivision"
-                time="0.000"
-                classname="fTest">
-            </testcase>
-            <testcase
-                name="testDivisionInvalid"
-                time="0.000"
+                time="0.002"
                 classname="fTest">
             </testcase>
             <testcase
@@ -42,6 +32,16 @@
             <testcase
                 name="testDivision"
                 time="0.003"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivision"
+                time="0.010"
+                classname="fTest">
+            </testcase>
+            <testcase
+                name="testDivisionInvalid"
+                time="0.001"
                 classname="fTest">
             </testcase>
 </testsuite>
